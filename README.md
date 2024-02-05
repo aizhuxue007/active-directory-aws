@@ -1,6 +1,7 @@
 # Active Directory Basics with AWS
 ## 1. Launching an EC2 Instance
 - Step 1: Sign in to the AWS Management Console and navigate to the EC2 Dashboard.
+![Alt text](/path/to/image.png)
 - Step 2: Click on Launch Instance and select the Microsoft Windows Server 2019 Base AMI.
 - Step 3: Choose a t2.micro instance (eligible for the AWS Free Tier) and click Next: Configure Instance Details.
 - Step 4: Leave the default settings and proceed to Add Storage, adjusting if necessary for your lab.
